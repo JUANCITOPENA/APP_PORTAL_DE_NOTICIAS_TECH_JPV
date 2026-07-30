@@ -8,6 +8,11 @@ Aquí no solo vas a copiar y pegar. Aquí vas a **entender** qué hace cada lín
 
 ## 📚 SECCIÓN 1: Presentación y Contextualización
 
+| Portada Principal | Detalle de Noticia | Favoritos / Notificaciones |
+|:---:|:---:|:---:|
+| <img src="Screenshot_1.png" width="250" /> | <img src="Screenshot_2.png" width="250" /> | <img src="Screenshot_3.png" width="250" /> |
+
+
 ### ¿Qué es NoticiasTechApp?
 Es una aplicación móvil nativa (construida para Android y Windows) que funciona como un portal de noticias en tiempo real. 
 No es una simple lista; es una aplicación robusta que:
